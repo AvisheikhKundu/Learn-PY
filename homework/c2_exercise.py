@@ -8,6 +8,7 @@ Create the statements ```x=2``` and ```y=3```, then determine what each of
 what each of the following displays.
 """
 
+
 x=2
 y=3
 
