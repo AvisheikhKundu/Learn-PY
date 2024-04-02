@@ -2,7 +2,6 @@
 # - Chapter 3 Exercises on REPETITION statements
 
 
-
 # 3.1 (Validating User Input)
 """
 Modify the script of Fig. 3.3 to validate its inputs.  For any input, if the 
