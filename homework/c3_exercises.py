@@ -9,6 +9,7 @@ value.  Use one counter to keep track of the number of attempts, then
 calculate the number of failures after all the user's inputs have been received.
 """
 
+
 # fig 3.3
 '''Nested control statements to analyze exam results'''
 
