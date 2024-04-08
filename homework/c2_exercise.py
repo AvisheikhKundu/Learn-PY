@@ -271,8 +271,6 @@ print('Your Target range is: ', Target)
 
 
 
-
-
 # 2.15 (Sort in Ascending Order)
 """
 Write code that inputs three different floating-point numbers from the user.  
