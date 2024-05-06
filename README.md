@@ -16,7 +16,7 @@ Intro to Python for Computer Science and Data Science: Learning to Program with 
 
 ### Learning Outcomes 
 
-After successful completion of this course the student will be able to:
+After successful completion of this a person will be able to:
 - Effectively employ Python as a scientific computation tool, utilizing several built-in functions and import libraries;
 - Apply relational and logical operators;
 - Apply programming constructs such as decision structures and repetition structures to solve scientific problems;
