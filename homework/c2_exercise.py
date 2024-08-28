@@ -1,6 +1,5 @@
 
 
-
 # - Introduction to Programming with Python
 # - Chapter 2 Exercises on IF statements
 
