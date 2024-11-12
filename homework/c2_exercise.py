@@ -1,6 +1,5 @@
 # - Chapter 2 Exercises on IF statements
 
-
 # 2.1
 """
 Create the statements ```x=2``` and ```y=3```, then determine what each of 
